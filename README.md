@@ -1,22 +1,13 @@
-# Hi, I'm Fazaa 👋
+### Securing AI-Built Apps (Cursor, Lovable, Copilot) | Supabase RLS & IDOR
 
-> 🛡️ Security Researcher | Secure Web Developer | Threat Intel
+I audit MVPs built with AI for the 3 flaws that leak data:
+- Broken RLS Policies in Supabase
+- IDOR via changing user IDs
+- Service Keys exposed in Frontend
 
-### 🧑‍💻 عني
-ببني تطبيقات ويب آمنة - شغلي كله مبني على مبدأ `never in code, never in git`. مهتم بالـ Secure Coding والـ Supabase RLS.
+**Methodology:** Build -> Break -> Secure
 
-### 🚀 مشاريعي الحالية
-- **🏠 e3maar-app** - منصة عقارية آمنة بـ Next.js & Supabase
-- **🛡️ Threat-Intel-Portfolio** - أبحاث في أمن المعلومات
-
-### 🛠️ Tech Stack
-Next.js | Supabase | Python | Tailwind | Git Security
-
-### 🔐 Security First
-✅ 2FA | ✅ Secret Scanning | ✅ RLS Policies
-
-### 📫 تواصل
-- GitHub: @fazaa-sec
+Check my repos for real fixes.
 
 ---
-⭐ If you like my work, give it a star!
+📩 DM for a 48h pre-launch audit.
