@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Fazaa 👋
 
-<!--
-**fazaa-sec/fazaa-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🛡️ Security Researcher | Secure Web Developer | Threat Intel
 
-Here are some ideas to get you started:
+### 🧑‍💻 عني
+ببني تطبيقات ويب آمنة - شغلي كله مبني على مبدأ `never in code, never in git`. مهتم بالـ Secure Coding والـ Supabase RLS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 مشاريعي الحالية
+- **🏠 e3maar-app** - منصة عقارية آمنة بـ Next.js & Supabase
+- **🛡️ Threat-Intel-Portfolio** - أبحاث في أمن المعلومات
+
+### 🛠️ Tech Stack
+Next.js | Supabase | Python | Tailwind | Git Security
+
+### 🔐 Security First
+✅ 2FA | ✅ Secret Scanning | ✅ RLS Policies
+
+### 📫 تواصل
+- GitHub: @fazaa-sec
+
+---
+⭐ If you like my work, give it a star!
