@@ -41,5 +41,4 @@ I don't just report the bug. I fix it in the repo.
 **DM for a 48h pre-launch audit.**
 I check your Supabase RLS, IDOR, and exposed keys before you launch — so you don't leak on day 1.
 
-📍 Remote | Khartoum 
-🔗 LinkedIn: linkedin.com/https://www.linkedin.com/in/muatez-m-57088b2a7?utm_source=share_via&utm_content=profile&utm_medium=member_android
+📍 Remote |
